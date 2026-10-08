@@ -1,0 +1,7 @@
+{
+  "name": "kol-campaign-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KOL Campaign Tracker — dashboard with its own database (Upstash Redis on Vercel)",
+  "engines": { "node": ">=18" }
+}
